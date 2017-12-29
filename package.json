@@ -1,0 +1,20 @@
+{
+  "name": "reading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "node bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "es6-promise": "^4.2.2",
+    "express": "^4.16.2",
+    "isomorphic-fetch": "^2.2.1",
+    "webtask-tools": "^3.2.0"
+  }
+}
